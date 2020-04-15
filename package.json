@@ -1,0 +1,22 @@
+{
+  "name": "poc-dom-parser",
+  "version": "1.0.0",
+  "description": "Abrir com IE ou Firefox para replicar o erro.",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unocode/poc-dom-parser.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/unocode/poc-dom-parser/issues"
+  },
+  "homepage": "https://github.com/unocode/poc-dom-parser#readme",
+  "devDependencies": {
+    "serve": "^11.3.0"
+  }
+}
